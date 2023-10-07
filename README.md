@@ -1,3 +1,4 @@
+![logo](https://github.com/GaddeCharanSaiGaneshManikanta/GaddeCharanSaiGaneshManikanta/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm charan</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
